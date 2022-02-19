@@ -8,17 +8,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Mogitg db swdnd  asdfbdfjkADFNKQe
-        // Mogitg db swdnd  asdfbdfjkADFNKQe
-        // Mogitg db swdnd  asdfbdfjkADFNKQe
-        // Mogitg db swdnd  asdfbdfjkADFNKQe
-        // Mogitg db swdnd  asdfbdfjkADFNKQe
-        // Mogitg db swdnd  asdfbdfjkADFNKQe
-        // Mogitg db swdnd  asdfbdfjkADFNKQe
-        // Mogitg db swdnd  asdfbdfjkADFNKQe
-        // Mogitg db swdnd  asdfbdfjkADFNKQe
-        // Mogitg db swdnd  asdfbdfjkADFNKQe
-        // Mogitg db swdnd  asdfbdfjkADFNKQe
-        // Mogitg db swdnd  asdfbdfjkADFNKQe
     }
 }
